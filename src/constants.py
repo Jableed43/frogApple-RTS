@@ -1,0 +1,9 @@
+import pygame
+
+# Constants
+WIDTH, HEIGHT = 1000, 800
+FPS = 60
+PLAYER_VEL = 5
+BLOCK_SIZE = 96
+ADD_FRUIT_EVENT = pygame.USEREVENT + 1
+GAME_STATE = "MENU"
