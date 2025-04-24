@@ -43,5 +43,3 @@ To play this game, you will need to have **Python** and the **Pygame** library i
     ```bash
     python src/game.py
     ```
-
-## Project Folder Structure
